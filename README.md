@@ -1,2 +1,2 @@
 # Python_Programs
-this is are my simple python projects
+this are my simple python projects
